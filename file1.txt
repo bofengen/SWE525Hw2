@@ -1,3 +1,4 @@
 Bo Feng software engineering
 which restaurant
 which movie
+favorite color: bule
